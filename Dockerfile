@@ -1,4 +1,4 @@
 From node
 
-ADD project /project/
-WORKDIR /project/
+ADD WebApp-Jenkins-Docker /Build
+WORKDIR /Build/
